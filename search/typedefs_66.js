@@ -2,8 +2,8 @@ var searchData=
 [
   ['findfuncptr',['FindFuncPtr',['../classcasacore_1_1TableExprNodeSet.html#a7557b36d553c1e2c2d2dfc460a2e99f4',1,'casacore::TableExprNodeSet']]],
   ['fitserrorhandler',['FITSErrorHandler',['../group__FITS__module.html#gaee882035f11fda0ba1e04f23626a4ec2',1,'casacore']]],
-  ['fitslong',['FitsLong',['../namespacecasacore.html#a9b0b2d55d1a3ac73963508b4a63a45b8',1,'casacore']]],
-  ['float',['Float',['../namespacecasacore.html#a8e2f856944a61553ab74cd041314f696',1,'casacore']]],
+  ['fitslong',['FitsLong',['../namespacecasacore.html#a9b0b2d55d1a3ac73963508b4a63a45b8',1,'casacore::FitsLong()'],['../namespacecasacore_1_1casacore.html#ad7d5926fa82eaf783bd2a517ec5b236f',1,'casacore::casacore::FitsLong()']]],
+  ['float',['Float',['../namespacecasacore.html#a8e2f856944a61553ab74cd041314f696',1,'casacore::Float()'],['../namespacecasacore_1_1casacore.html#abbd07377aca624abe6ead7b23c541c28',1,'casacore::casacore::Float()']]],
   ['floatconvolver',['FloatConvolver',['../namespacecasacore.html#abedbe246d1182285bba28d669f5425e0',1,'casacore']]],
   ['floatfitsarray',['FloatFitsArray',['../namespacecasacore.html#a3e6cf176a9e85f634d4fcb2339e5170d',1,'casacore']]],
   ['floatfitsfield',['FloatFitsField',['../namespacecasacore.html#a6e8bdf6b4ba98fed50b6dfccb906a95e',1,'casacore']]],

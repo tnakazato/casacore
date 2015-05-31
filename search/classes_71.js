@@ -10,6 +10,7 @@ var searchData=
   ['quality',['Quality',['../classcasacore_1_1Quality.html',1,'casacore']]],
   ['qualitycoordinate',['QualityCoordinate',['../classcasacore_1_1QualityCoordinate.html',1,'casacore']]],
   ['quantum',['Quantum',['../classcasacore_1_1Quantum.html',1,'casacore']]],
+  ['quantum_3c_20casacore_3a_3avector_3c_20double_20_3e_20_3e',['Quantum&lt; casacore::Vector&lt; Double &gt; &gt;',['../classcasacore_1_1Quantum.html',1,'casacore']]],
   ['quantum_3c_20double_20_3e',['Quantum&lt; Double &gt;',['../classcasacore_1_1Quantum.html',1,'casacore']]],
   ['quantum_3c_20vector_3c_20double_20_3e_20_3e',['Quantum&lt; Vector&lt; Double &gt; &gt;',['../classcasacore_1_1Quantum.html',1,'casacore']]],
   ['quantum_3c_20vector_3c_20t_20_3e_20_3e',['Quantum&lt; Vector&lt; T &gt; &gt;',['../classcasacore_1_1Quantum.html',1,'casacore']]],

@@ -264,7 +264,7 @@ var searchData=
   ['translate',['translate',['../structcasacore_1_1re__pattern__buffer.html#aa9ad80dda5faaa30c7d60e89e9bcc84d',1,'casacore::re_pattern_buffer']]],
   ['trian_5fp',['trian_p',['../classcasacore_1_1LSQMatrix.html#a387d60d2973f9d6b44951ccebbc6751d',1,'casacore::LSQMatrix']]],
   ['tropcen',['TROPCEN',['../classcasacore_1_1MeasData.html#a3a4a6bf21e2391b17b1fb120ab8aae0e',1,'casacore::MeasData']]],
-  ['true',['True',['../namespacecasacore.html#ad5c850f9e177173e0f7d0ad57091501d',1,'casacore']]],
+  ['true',['True',['../namespacecasacore.html#ad5c850f9e177173e0f7d0ad57091501d',1,'casacore::True()'],['../namespacecasacore_1_1casacore.html#a8c108e9866b37d1ec4c3f8f5f461f2af',1,'casacore::casacore::True()']]],
   ['trx_5fp',['trx_p',['../classcasacore_1_1ROMSSysCalColumns.html#a71f193d8a07bd6905e4581735cb29454',1,'casacore::ROMSSysCalColumns::trx_p()'],['../classcasacore_1_1MSSysCalColumns.html#a287ef819371783a7bf53f41e69b8151f',1,'casacore::MSSysCalColumns::trx_p()']]],
   ['trxfield_5fp',['trxField_p',['../classcasacore_1_1SDSysCalHandler.html#a041ec6547c53c91c421ba9e78372b9f2',1,'casacore::SDSysCalHandler']]],
   ['trxflag_5fp',['trxFlag_p',['../classcasacore_1_1ROMSSysCalColumns.html#a2ced7fe2d6783a23235288fff76f4f15',1,'casacore::ROMSSysCalColumns::trxFlag_p()'],['../classcasacore_1_1MSSysCalColumns.html#a0f0961f641549d5984a491a0eb276d66',1,'casacore::MSSysCalColumns::trxFlag_p()']]],

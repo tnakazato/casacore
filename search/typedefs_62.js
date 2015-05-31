@@ -5,7 +5,7 @@ var searchData=
   ['beamiter',['BeamIter',['../classcasacore_1_1ImageBeamSet.html#a0c6ba580b45865d9a56233de019735bb',1,'casacore::ImageBeamSet']]],
   ['bitfitsarray',['BitFitsArray',['../namespacecasacore.html#afddbffaf1d5012eca353dd9429d62459',1,'casacore']]],
   ['bitfitsfield',['BitFitsField',['../namespacecasacore.html#a3600efc7d55e19babb8a45236b1cd2bf',1,'casacore']]],
-  ['bool',['Bool',['../namespacecasacore.html#abd5691f9e13acc90d901e4007740ff98',1,'casacore']]],
+  ['bool',['Bool',['../namespacecasacore.html#abd5691f9e13acc90d901e4007740ff98',1,'casacore::Bool()'],['../namespacecasacore_1_1casacore.html#a239232d9fe66a11efb13bd417cd40818',1,'casacore::casacore::Bool()']]],
   ['bucketcacheaddbuffer',['BucketCacheAddBuffer',['../structcasacore_1_1BucketCache__global__functions__BucketCache__CallBack.html#a5ededbf527cf513db2efb282d662ade2',1,'casacore::BucketCache_global_functions_BucketCache_CallBack']]],
   ['bucketcachedeletebuffer',['BucketCacheDeleteBuffer',['../structcasacore_1_1BucketCache__global__functions__BucketCache__CallBack.html#a56c588dbedabdbe4d9fae5230618e6de',1,'casacore::BucketCache_global_functions_BucketCache_CallBack']]],
   ['bucketcachefromlocal',['BucketCacheFromLocal',['../structcasacore_1_1BucketCache__global__functions__BucketCache__CallBack.html#ae96224cc67bacd91b55207a9b24d33a8',1,'casacore::BucketCache_global_functions_BucketCache_CallBack']]],

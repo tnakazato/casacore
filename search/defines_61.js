@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['aips_5fdebug',['aips_debug',['../aipsdef_8h.html#a27a7dec5463d4e784f1cb3cef747eaaf',1,'aipsdef.h']]],
-  ['aips_5fname2',['aips_name2',['../aipsdef_8h.html#aab897274b2d34eeda51319ee2bfb5b02',1,'aipsdef.h']]],
+  ['aips_5fdebug',['aips_debug',['../aipsdef_8h.html#a27a7dec5463d4e784f1cb3cef747eaaf',1,'aips_debug():&#160;aipsdef.h'],['../LatticeStatistics_8h.html',1,'aips_debug():&#160;LatticeStatistics.h']]],
+  ['aips_5fname2',['aips_name2',['../aipsdef_8h.html#aab897274b2d34eeda51319ee2bfb5b02',1,'aips_name2():&#160;aipsdef.h'],['../LatticeStatistics_8h.html',1,'aips_name2():&#160;LatticeStatistics.h']]],
   ['aips_5fstupid_5fsun',['AIPS_STUPID_SUN',['../Map_8h.html#a3bc51b126669b003127d1df77c3bec2e',1,'Map.h']]],
   ['aipsio_5ffunc_5fspec',['AIPSIO_FUNC_SPEC',['../AipsIOCarray_8h.html#a7f5366607dc2710e06025f7e807fa501',1,'AipsIOCarray.h']]],
   ['aipsrcvalue_5fbool',['AipsrcValue_Bool',['../AipsrcValue_8h.html#aa865cc6f0fcf3397f3a07694b51075ca',1,'AipsrcValue.h']]],

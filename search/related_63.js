@@ -16,7 +16,7 @@ var searchData=
   ['constlistiter_3c_20t_20_3e',['ConstListIter&lt; t &gt;',['../classcasacore_1_1ListNotice.html#a9a232b36954917e7016721a152f979c9',1,'casacore::ListNotice::ConstListIter&lt; t &gt;()'],['../classcasacore_1_1List.html#a9a232b36954917e7016721a152f979c9',1,'casacore::List::ConstListIter&lt; t &gt;()']]],
   ['cos',['cos',['../classcasacore_1_1LatticeExprNode.html#ac302722a5128ed94e85015d75f89addd',1,'casacore::LatticeExprNode::cos()'],['../classcasacore_1_1TableExprNode.html#a498088d025e576679193f76ef91cbc6f',1,'casacore::TableExprNode::cos()']]],
   ['cosh',['cosh',['../classcasacore_1_1LatticeExprNode.html#aa92c5d2704c5331b0508c2db44624588',1,'casacore::LatticeExprNode::cosh()'],['../classcasacore_1_1TableExprNode.html#a91b4abf2ccfa4d5640a6040061ece1cf',1,'casacore::TableExprNode::cosh()']]],
-  ['countedptr',['CountedPtr',['../classcasacore_1_1CountedPtr.html#a56f7d33ddbdffd61e3c18e2a3a6a0958',1,'casacore::CountedPtr']]],
+  ['countedptr',['CountedPtr',['../classcasacore_1_1CountedPtr.html#ae7db19162dcfa97421b8b546221a8fa0',1,'casacore::CountedPtr']]],
   ['ctime',['ctime',['../classcasacore_1_1TableExprNode.html#abaa5a2b719e85277e6aacd4fdc5a058f',1,'casacore::TableExprNode']]],
   ['ctodt',['ctodt',['../classcasacore_1_1TableExprNode.html#a5fe7521dc636cee176b641297c5fe5ae',1,'casacore::TableExprNode']]],
   ['cube',['cube',['../classcasacore_1_1TableExprNode.html#aa835de2368c77ed0fd05bdbf966c059f',1,'casacore::TableExprNode']]]

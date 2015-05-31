@@ -119,7 +119,7 @@ var searchData=
   ['resultset_5fp',['resultSet_p',['../classcasacore_1_1TableParseSelect.html#aeb62259131be9f09adc96d6dce624517',1,'casacore::TableParseSelect']]],
   ['resulttype_5fp',['resultType_p',['../classcasacore_1_1TableParseSelect.html#a24bc9951a7a84c36c18eda961515dce7',1,'casacore::TableParseSelect']]],
   ['resv_5fp',['resv_p',['../classcasacore_1_1VelocityMachine.html#af88f842b0bf35594ba847387164c2d94',1,'casacore::VelocityMachine']]],
-  ['resword',['ResWord',['../classcasacore_1_1FITS.html#a5ef329c8bc133d35445271b8fa99b2e2',1,'casacore::FITS::ResWord()'],['../classcasacore_1_1ReservedFitsKeywordCollection.html#ae1d56fb66b2084732054d56de0dda13a',1,'casacore::ReservedFitsKeywordCollection::resword()']]],
+  ['resword',['resword',['../classcasacore_1_1ReservedFitsKeywordCollection.html#ae1d56fb66b2084732054d56de0dda13a',1,'casacore::ReservedFitsKeywordCollection::resword()'],['../classcasacore_1_1FITS.html#a5ef329c8bc133d35445271b8fa99b2e2',1,'casacore::FITS::ResWord()']]],
   ['rfp_5fp',['rfp_p',['../classcasacore_1_1MeasComet.html#a739ac8a2b8bca789f2c9d55eb0129e5a',1,'casacore::MeasComet']]],
   ['rin_5fp',['rin_p',['../classcasacore_1_1EarthMagneticMachine.html#aa96da7767d81ac3cf23b0df63685cdc5',1,'casacore::EarthMagneticMachine']]],
   ['rms',['rms',['../structcasacore_1_1StatsData.html#a32125ea38cb64112d2d96668d2b72ad8',1,'casacore::StatsData']]],

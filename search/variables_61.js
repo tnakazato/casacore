@@ -14,7 +14,7 @@ var searchData=
   ['addtocache_5fp',['addToCache_p',['../classcasacore_1_1PlainTable.html#a1d9a41f1cae9ca423b7d5b7ffef124bb',1,'casacore::PlainTable']]],
   ['agh_5fp',['agh_p',['../classcasacore_1_1EarthField.html#a8ab7d06ec00b6df85656233e88411e33',1,'casacore::EarthField']]],
   ['ai',['ai',['../classcasacore_1_1ReadOnlyArrayIterator.html#a09275917012d7fc4563e174dfc0d805f',1,'casacore::ReadOnlyArrayIterator']]],
-  ['aips_5fdebug_5fon',['aips_debug_on',['../namespacecasacore.html#abedba2c06fdc94b8e34fdc3831f6216c',1,'casacore']]],
+  ['aips_5fdebug_5fon',['aips_debug_on',['../namespacecasacore.html#abedba2c06fdc94b8e34fdc3831f6216c',1,'casacore::aips_debug_on()'],['../namespacecasacore_1_1casacore.html#aded124a82f7173effc20dba52930d67d',1,'casacore::casacore::aips_debug_on()']]],
   ['algorithm',['algorithm',['../structcasacore_1_1LatticeStatistics_1_1AlgConf.html#a8567d46f2261b55889d32f0e0843c873',1,'casacore::LatticeStatistics::AlgConf']]],
   ['allbeamoffsetszero_5fp',['allBeamOffsetsZero_p',['../classcasacore_1_1MSIter.html#a5583d11623ab72bdfe204969b3c73493',1,'casacore::MSIter']]],
   ['allkeys_5fp',['allKeys_p',['../classcasacore_1_1FITSTable.html#a2896c799123d30980ad1d643ab457c2d',1,'casacore::FITSTable']]],
