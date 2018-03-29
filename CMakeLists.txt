@@ -78,6 +78,10 @@ option (CASA_BUILD "Building in the CASA (http://casa.nrao.edu) environment" NO)
 
 set(CASA_DEFAULT_ALIGNMENT "32" CACHE STRING "Default alignment of casa::AlignedAllocator")
 
+# architecture specific optimization
+#set(ARCH_OPTIMIZE "NONE" CACHE STRING "Architecture type that CASA optimize to: NONE|SANDYBRIDGE|HASWELL")
+set(ARCH_OPTIMIZE "SANDYBRIDGE" CACHE STRING "Architecture type that CASA optimize to: NONE|SANDYBRIDGE|HASWELL")
+
 # ccache use is optional
 option( UseCcache OFF )
 
@@ -455,6 +459,18 @@ if(USE_THREADS)
         endif ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "Clang")
     endif(CMAKE_COMPILER_IS_GNUCXX)
 endif(USE_THREADS)
+
+# architecture specific optimization
+if (NOT APPLE)
+    set( SANDYBRIDGE_CXX_FLAGS "-march=sandybridge -mtune=sandybridge -mpopcnt -mpclmul -mmmx -mfxsr -mcx16 -msahf -mxsaveopt -mavx -mfma -ftree-vectorize" )
+    set( HASWELL_CXX_FLAGS "-march=haswell -mtune=haswell -maes -mavx2 -mbmi -mbmi2 -mfsgsbase -mhle -mrtm -mmovbe -mpopcnt -mpclmul -mmmx -mfxsr -mcx16 -msahf -mxsaveopt -mavx -mfma" )
+    if( ARCH_OPTIMIZE STREQUAL "SANDYBRIDGE" )
+        set( EXTRA_CXX_FLAGS "${EXTRA_CXX_FLAGS} ${SANDYBRIDGE_CXX_FLAGS}" )
+    elseif( ARCH_OPTIMIZE STREQUAL "HASWELL" )
+        set( EXTRA_CXX_FLAGS "${EXTRA_CXX_FLAGS} ${HASWELL_CXX_FLAGS}" ) 
+    endif()
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${EXTRA_CXX_FLAGS}") 
+endif (NOT APPLE)
 
 # Set default DATA_DIR if undefined.
 if (NOT DATA_DIR)
